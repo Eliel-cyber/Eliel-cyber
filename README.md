@@ -1,52 +1,38 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#6134eb&height=120&section=header"/>
+# Olá, eu sou o Eliel Dias 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8934eb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Eliel+Bernardo+Dias;I+study+Information+System+at+FGP;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+**Assistente de E-commerce | Estudante de Sistemas de Informação (FGP, conclusão prevista em 2027)**
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eliel-Cyber&show_icons=true&count_private=true&hide_border=true&title_color=6534eb&icon_color=34eb77&text_color=c9d1d9&bg_color=0d1117" alt="Eliel Bernardo Dias github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliel-Cyber&layout=compact&hide_border=true&title_color=9c34eb&text_color=9c34eb&bg_color=0d1117" />
-</div>
+Tenho experiência em rotinas administrativas e de backoffice com foco em sistemas: faturamento, controle de estoque, cadastro de produtos, atendimento ao cliente e controles em Excel. Sou organizado, atento a detalhes e aprendo rápido qualquer sistema novo.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eliel-Cyber&bg_color=000000&color=7434eb&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 💼 Experiência
+**JP Racing - Assistente de E-commerce** (dez/2025 - atual)
+- Faturamento de pedidos nos ERPs Bling e TOTVS, com conferência de dados antes da emissão
+- Controle de estoque: entrada e saída de mercadorias e conferência de divergências
+- Cadastro e precificação de produtos e atualização de anúncios no Mercado Livre
+- Acompanhamento de entregas e pós-venda com transportadoras e Correios
+- Planilhas de controle de pedidos e estoque em Excel (PROCV e tabela dinâmica)
 
-<div align="center">  
-<a href="https://www.instagram.com/bernard_odias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
- 
-### Main skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
- 
-### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Atom](https://img.shields.io/badge/-atom-0D1117?style=for-the-badge&logo=atom&logoColor=90ee90&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
- 
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Handlebars](https://img.shields.io/badge/-handlebars-0D1117?style=for-the-badge&logo=handlebars&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+**Concilig - Operador de Crédito** (2022 - 2023)
+- Atendimento ao cliente por telefone e canais digitais, negociação e retenção
+- Análise de crédito e validação cadastral em sistemas internos
 
-<!-- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Eliel-Cyber}/count.svg" /></p> 
-<br></div> -->
+### 🛠️ Sistemas e ferramentas
+![Excel](https://img.shields.io/badge/Excel-PROCV%20e%20Tabela%20Din%C3%A2mica-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Office](https://img.shields.io/badge/Word%20e%20PowerPoint-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+![ERP](https://img.shields.io/badge/ERP-Bling%20e%20TOTVS-1F3A5F?style=flat-square)
+![Mercado Livre](https://img.shields.io/badge/Mercado%20Livre-FFE600?style=flat-square&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
+### ✅ Competências
+Faturamento · Controle de estoque · Cadastro e conferência de dados · Atendimento ao cliente · Negociação · Análise de crédito · Logística e pós-venda · Organização de documentos e relatórios
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6134eb&height=120&section=footer"/>
+### 🎓 Formação e cursos
+- Sistemas de Informação - Faculdade Gennari & Peartree (FGP), 3º ano
+- Assistente Administrativo - Portal D1 (faturamento, estoque, compras e finanças)
+- Excel, Word e PowerPoint · Segurança digital e computação em nuvem · Atendimento, negociação e vendas
+
+### 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-elieldias-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elieldias)
+[![Email](https://img.shields.io/badge/Email-diaseliel532%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:diaseliel532@gmail.com)
+
+📍 Pederneiras - SP · Disponível para vagas presenciais, híbridas ou remotas
