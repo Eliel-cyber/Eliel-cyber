@@ -36,4 +36,4 @@ Faturamento · Controle de estoque · Cadastro e conferência de dados · Atendi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-elieldias-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elieldias)
 [![Email](https://img.shields.io/badge/Email-diaseliel532%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:diaseliel532@gmail.com)
 
-📍 Pederneiras - SP · Disponível para vagas presenciais, híbridas ou remotas
+📍 Bauru - SP · Disponível para vagas presenciais, híbridas ou remotas
