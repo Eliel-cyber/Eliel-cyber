@@ -12,7 +12,7 @@ Tenho experiência em rotinas administrativas e de backoffice com foco em sistem
 - Acompanhamento de entregas e pós-venda com transportadoras e Correios
 - Planilhas de controle de pedidos e estoque em Excel (PROCV e tabela dinâmica)
 
-**Concilig - Operador de Crédito** (2022 - 2023)
+**Concilig - Operador de Crédito** (jan/2022 - out/2023)
 - Atendimento ao cliente por telefone e canais digitais, negociação e retenção
 - Análise de crédito e validação cadastral em sistemas internos
 
@@ -32,6 +32,7 @@ Faturamento · Controle de estoque · Cadastro e conferência de dados · Atendi
 - Excel, Word e PowerPoint · Segurança digital e computação em nuvem · Atendimento, negociação e vendas
 
 ### 📫 Contato
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-eliel--cyber.github.io-1F3A5F?style=flat-square&logo=googlechrome&logoColor=white)](https://eliel-cyber.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-elieldias-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elieldias)
 [![Email](https://img.shields.io/badge/Email-diaseliel532%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:diaseliel532@gmail.com)
 
